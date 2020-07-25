@@ -1,4 +1,4 @@
-# handbellSDLs
+# handbellSTLs
 
 STLs for 3D printing of dummy handbells that can be used with change ringing simulators.
 
