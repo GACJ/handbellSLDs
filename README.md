@@ -2,7 +2,7 @@
 
 STLs for 3D printing of dummy handbells that can be used with change ringing simulators.
 
-**Handle v7 is slightly loose in the socket, so v7-2 should fix that, BUT it has not yet been tested**
+**Handle v7 is slightly loose in the socket, v7-2 is better but will still require glue, v7-3 is slightly bigger still, BUT it has not yet been tested (result will be about 2pm ish**
 
 90mm bell - support is needed for the button shafts and the electronics tunnel.
 
