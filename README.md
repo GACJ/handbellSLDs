@@ -2,7 +2,7 @@
 
 STLs for 3D printing of dummy handbells that can be used with change ringing simulators.
 
-**All uploaded and ready to use, video of electronics put together will be uploaded later tonight, viedo of put together will be uploaded tomorrow**
+**All uploaded and ready to use, video of electronics put together will be uploaded later tonight, video of put together will be uploaded tomorrow**
 
 90mm bell - support is needed for the button shafts and the electronics tunnel; print from same material as 3mm plug and electronics cap. 
 
