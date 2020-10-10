@@ -6,7 +6,7 @@ STLs for 3D printing of dummy handbells that can be used with change ringing sim
 
 Handle - support is needed for the overhang at the end of the square section, otherwise it tends to droop; print from same material as grommit and bell cap.
 
-*18/08/2020 - Button upgraded to v2 for new farnell buttons, bill of parts updated to include USB C cable and micro USB to UCB C adaptor
+*10/10/2020 - Updated with new handle design with integrated cable clamp and new grommet.
 
 Bill of parts contains links to online suppliers
 
