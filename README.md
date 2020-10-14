@@ -1,4 +1,5 @@
 # handbellSTLs
+These STLs are the copyright of eBells (Ben Johnson, Tim Hart, Simon Gay and Graham John) and are provided under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 license (see license.txt) which permits their use for non-commercial purposes. 
 
 STLs for 3D printing of dummy handbells that can be used with change ringing simulators.
 
