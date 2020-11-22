@@ -7,7 +7,7 @@ STLs for 3D printing of dummy handbells that can be used with change ringing sim
 
 Handle - support is needed for the overhang at the end of the square section, otherwise it tends to droop; print from same material as grommit and bell cap.
 
-*10/10/2020 - Updated with new handle design with integrated cable clamp and new grommet.
+*22/11/2020 - Updated with v10 handle design with integrated cable clamp for rubber sleeved cable.
 
 Bill of parts contains links to online suppliers
 
